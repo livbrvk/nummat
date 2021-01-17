@@ -1,5 +1,5 @@
 # nummat
-Projects done in numerical mathematics, fall 2020
+Projects done in numerical mathematics, fall 2020.
 
 The project regarding the condition number of Hilbert matrices was an independent project.
 The project regarding the neural network for the Hamiltonian function was done in a team of 3. I had the responsibility (and therefore wrote the code) for the following sections:
